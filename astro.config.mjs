@@ -32,6 +32,7 @@ export default defineConfig({
 				src: './public/images/logo.png',
 			},
 			favicon: '/images/logo.png',
+			customCss: ['./src/styles/custom.css'],
 			head: [
 				{
 					tag: 'script',
@@ -45,6 +46,22 @@ export default defineConfig({
 								}
 							} catch {}
 						})();
+					`,
+				},
+				{
+					tag: 'script',
+					content: `
+						window.addEventListener('DOMContentLoaded', () => {
+							if (document.querySelector('.sasaki-floating-whatsapp')) return;
+							const a = document.createElement('a');
+							a.className = 'sasaki-floating-whatsapp';
+							a.href = 'https://wa.me/94705116951?text=' + encodeURIComponent('Hello Sasaki Nihon Academy, I would like to inquire about Japan visa programs.');
+							a.target = '_blank';
+							a.rel = 'noopener noreferrer';
+							a.setAttribute('aria-label', 'Chat on WhatsApp');
+							a.innerHTML = '<svg viewBox="0 0 24 24"><path d="M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2M12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.72 20.28 11.92C20.28 16.46 16.58 20.15 12.04 20.15C10.56 20.15 9.11 19.76 7.85 19L7.55 18.83L4.43 19.65L5.26 16.61L5.06 16.29C4.24 15 3.8 13.47 3.8 11.91C3.81 7.37 7.5 3.67 12.05 3.67M9.04 7.22C8.84 7.22 8.52 7.3 8.25 7.59C7.98 7.88 7.21 8.6 7.21 10.07C7.21 11.54 8.28 12.95 8.43 13.15C8.58 13.35 10.34 16.22 13.13 17.3C15.22 18.11 15.83 17.86 16.36 17.78C17.07 17.67 18.1 17.02 18.35 16.3C18.6 15.58 18.6 14.97 18.52 14.84C18.44 14.71 18.24 14.64 17.94 14.49C17.64 14.34 16.17 13.62 15.9 13.52C15.63 13.42 15.43 13.37 15.23 13.67C15.03 13.97 14.46 14.64 14.28 14.84C14.11 15.04 13.93 15.07 13.63 14.92C13.33 14.77 12.37 14.45 11.23 13.43C10.35 12.65 9.75 11.68 9.58 11.38C9.4 11.08 9.56 10.92 9.71 10.77C9.85 10.64 10.02 10.42 10.17 10.24C10.32 10.07 10.37 9.94 10.47 9.74C10.57 9.54 10.52 9.37 10.45 9.22C10.37 9.07 9.8 7.64 9.55 7.07C9.32 6.52 9.08 6.6 8.91 6.59C8.75 6.58 8.55 6.58 8.35 6.58L9.04 7.22Z"/></svg><span>WhatsApp Us</span>';
+							document.body.appendChild(a);
+						});
 					`,
 				},
 			],

@@ -7,6 +7,10 @@ The **Specified Skilled Worker (SSW / 特定技能 - Tokutei Ginou)** status of 
 
 **Sasaki Nihon Academy** and **Sasaki Foreign Employment Agency** provide targeted Japanese language preparation, skill evaluation training, registered employer interviews, and visa processing for Sri Lankan candidates seeking SSW employment in Japan.
 
+:::tip[High Demand & Fast-Track]
+Specified Skilled Worker (SSW) is currently the fastest, highly remunerated legal employment pathway to Japan for Sri Lankan job seekers with starting salaries equivalent to 400,000–600,000 LKR/month.
+:::
+
 ---
 
 ## SSW Visa Categories
@@ -71,4 +75,8 @@ Under Japanese Immigration and Labor Law:
 - **Labor Protections**: Fully covered by Japanese Labor Standards, Worker's Accident Compensation Insurance, Health Insurance, and National Pension.
 - **Freedom to Change Employers**: Unlike traditional internship schemes, SSW holders are legally entitled to transfer employers within the same industrial sector.
 - **Comprehensive Support**: Registered Support Organizations (登録支援機関) assist with housing acquisition, bank account setup, airport transfers, Japanese language continuation, and complaint resolution.
+
+:::caution[Ethical Recruitment Notice]
+Sasaki Foreign Employment Agency adheres strictly to bilateral labor standards and Sri Lanka Bureau of Foreign Employment (SLBFE) codes. Never pay money to unauthorized brokers, sub-agents, or personal bank accounts. All enrollment and visa processing occurs officially at our registered office in Narammala.
+:::
 

@@ -47,3 +47,12 @@ To provide reliable guidance, professional visa support, and quality consultancy
 3. **Work Visa & Career Pathways**: Professional guidance for Specified Skilled Worker (SSW / 特定技能) and Technical Intern Training (TITP) programs.
 4. **Comprehensive Welfare & Post-Arrival Care**: Continuous liaison with Japanese supervising entities, host companies, and candidate families to guarantee welfare and peace of mind.
 
+---
+
+## Accreditation & Legal Authority
+
+- **Sri Lanka Bureau of Foreign Employment (SLBFE)**: Fully licensed overseas recruitment and placement agency operating under the SLBFE Act No. 21 of 1985.
+- **Registrar of Companies**: Sasaki Nihon Academy (Pvt) Ltd is an officially incorporated private limited company in Sri Lanka.
+- **Bilateral Accord Compliance**: Recruitment agreements strictly conform to the Memorandums of Cooperation (MOC) executed between the Government of Sri Lanka and the Government of Japan.
+- **Immigration Authority Disclaimer**: Final decisions regarding Certificate of Eligibility (COE) clearance and entry visa issuance rest solely under the sovereign authority of the Immigration Services Agency of Japan and the Embassy of Japan in Colombo.
+
