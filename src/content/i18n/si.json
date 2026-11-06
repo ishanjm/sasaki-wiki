@@ -1,0 +1,26 @@
+{
+	"skipLink.label": "අන්තර්ගතයට යන්න",
+	"search.label": "සොයන්න",
+	"search.ctrlKey": "Ctrl",
+	"search.cancelLabel": "අවලංගු කරන්න",
+	"themeSelect.accessibleLabel": "තේමාව තෝරන්න",
+	"themeSelect.dark": "අඳුරු",
+	"themeSelect.light": "දීප්තිමත්",
+	"themeSelect.auto": "ස්වයංක්‍රීය",
+	"languageSelect.accessibleLabel": "භාෂාව තෝරන්න",
+	"menuButton.accessibleLabel": "මෙනුව",
+	"sidebarNav.accessibleLabel": "ප්‍රධාන",
+	"tableOfContents.onThisPage": "මෙම පිටුවේ",
+	"tableOfContents.overview": "දළ විශ්ලේෂණය",
+	"i18n.untranslatedContent": "මෙම අන්තර්ගතය තවමත් ඔබේ භාෂාවෙන් ලබාගත නොහැක.",
+	"page.editLink": "පිටුව සංස්කරණය කරන්න",
+	"page.lastUpdated": "අවසන් වරට යාවත්කාලීන කළේ:",
+	"page.previousLink": "පෙර",
+	"page.nextLink": "ඊළඟ",
+	"404.text": "පිටුව හමු නොවීය. URL පරීක්ෂා කරන්න හෝ සෙවුම් තීරුව භාවිත කරන්න.",
+	"aside.note": "සටහන",
+	"aside.tip": "ඉඟිය",
+	"aside.caution": "අවවාදයයි",
+	"aside.danger": "අනතුර"
+}
+

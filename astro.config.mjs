@@ -6,7 +6,27 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'Sasaki Foreign Employment Agency',
+			title: {
+				en: 'Sasaki Foreign Employment Agency',
+				si: 'සසාකි විදේශ රැකියා නියෝජිතායතනය',
+				ja: 'ササキ海外雇用エージェンシー',
+			},
+			defaultLocale: 'root',
+			locales: {
+				root: {
+					label: 'English',
+					lang: 'en',
+				},
+				si: {
+					label: 'සිංහල',
+					lang: 'si',
+					dir: 'ltr',
+				},
+				ja: {
+					label: '日本語',
+					lang: 'ja',
+				},
+			},
 			logo: {
 				src: './public/images/logo.png',
 			},
@@ -31,13 +51,28 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Guides',
+					translations: {
+						si: 'මාර්ගෝපදේශ',
+						ja: 'ガイド',
+					},
 					items: [
 						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{
+							label: 'Example Guide',
+							translations: {
+								si: 'ආදර්ශ මාර්ගෝපදේශය',
+								ja: 'サンプルガイド',
+							},
+							slug: 'guides/example',
+						},
 					],
 				},
 				{
 					label: 'Reference',
+					translations: {
+						si: 'විමර්ශන',
+						ja: 'リファレンス',
+					},
 					items: [{ autogenerate: { directory: 'reference' } }],
 				},
 			],
