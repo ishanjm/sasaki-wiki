@@ -6,7 +6,27 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Sasaki Foreign Employment Agency',
+			logo: {
+				src: './public/images/logo.png',
+			},
+			favicon: '/images/logo.png',
+			head: [
+				{
+					tag: 'script',
+					content: `
+						(() => {
+							try {
+								const storedTheme = localStorage.getItem('starlight-theme');
+								if (!storedTheme) {
+									localStorage.setItem('starlight-theme', 'light');
+									document.documentElement.dataset.theme = 'light';
+								}
+							} catch {}
+						})();
+					`,
+				},
+			],
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
 				{
