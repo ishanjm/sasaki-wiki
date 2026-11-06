@@ -4,6 +4,7 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://www.sasakinihon.lk',
 	integrations: [
 		starlight({
 			title: {
@@ -47,8 +48,40 @@ export default defineConfig({
 					`,
 				},
 			],
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
 			sidebar: [
+				{
+					label: 'Company Profile',
+					translations: {
+						si: 'ආයතනික තොරතුරු',
+						ja: '企業情報',
+					},
+					items: [
+						{
+							label: 'About Sasaki Nihon',
+							translations: {
+								si: 'සසාකි නිහොන් පිළිබඳව',
+								ja: 'ササキ日本アカデミーについて',
+							},
+							slug: 'company/about',
+						},
+						{
+							label: 'Language Courses',
+							translations: {
+								si: 'ජපන් භාෂා පාඨමාලා',
+								ja: '日本語教育コース',
+							},
+							slug: 'company/courses',
+						},
+						{
+							label: 'Contact & Location',
+							translations: {
+								si: 'සම්බන්ධතා සහ ලිපිනය',
+								ja: 'お問い合わせ・所在地',
+							},
+							slug: 'company/contact',
+						},
+					],
+				},
 				{
 					label: 'Guides',
 					translations: {
