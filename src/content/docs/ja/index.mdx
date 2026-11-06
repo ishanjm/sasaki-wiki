@@ -2,6 +2,8 @@
 title: ササキ海外雇用エージェンシー
 description: 日本および世界各地への人材紹介と日本語教育を提供する正規ライセンス海外雇用エージェンシー。
 template: splash
+banner:
+  content: "🌸 日本語講座および特定技能・留学プログラムの受講生を随時募集中です。"
 hero:
   tagline: 正規海外雇用エージェンシー＆ササキ日本アカデミー（Nihon Academy Pvt Ltd）。優秀な人材と日本企業の架け橋となります。
   image:
@@ -10,15 +12,15 @@ hero:
     - text: ビザ申請・渡航手順
       link: /ja/guides/visa-application-process/
       icon: right-arrow
-    - text: 在留資格・ビザ制度
-      link: /ja/visas/ssw/
+    - text: 適性診断マトリクス
+      link: /ja/reference/eligibility-matrix/
       icon: open-book
       variant: minimal
-    - text: 必要書類チェック
-      link: /ja/reference/document-checklist/
+    - text: よくある質問（FAQ）
+      link: /ja/reference/faq/
       icon: document
       variant: minimal
-    - text: お問い合わせ
+    - text: お問い合わせ窓口
       link: /ja/company/contact/
       icon: external
       variant: minimal
@@ -30,22 +32,22 @@ import { Card, CardGrid, Steps } from '@astrojs/starlight/components';
 
 <CardGrid stagger>
 	<Card title="特定技能制度（SSW）" icon="rocket">
-		介護、外食、飲食料品製造、農業、建設、素形材・産業機械などの特定技能分野における確実な人材育成とマッチング。
+		介護、外食、飲食料品製造、農業、建設分野における確実な人材育成とマッチング。 [特定技能の詳細 →](/ja/visas/ssw/)
 	</Card>
-	<Card title="技能実習制度（TITP）" icon="approve-check">
-		認可された監理団体および実習実施者と連携し、実践的な技術移転とキャリア形成をサポート。
+	<Card title="介護特別プログラム（Kaigo）" icon="heart">
+		需要の高い介護分野に特化した日本語評価試験および技能測定試験の集中対策。 [介護プログラム →](/ja/visas/caregiving-kaigo/)
 	</Card>
-	<Card title="日本語アカデミー（Nihon Academy）" icon="translate">
-		JLPT（N5〜N2）対策、JFT-Basic合格指導、ビジネスマナー、日本の職場文化・生活習慣の徹底教育。
+	<Card title="日本留学ビザ支援" icon="open-book">
+		提携日本語学校・専門学校への進学手続きおよび資格外活動（アルバイト）指導。 [留学ビザの詳細 →](/ja/visas/student/)
 	</Card>
-	<Card title="在留資格・ビザ申請支援" icon="document">
-		在留資格認定証明書（COE）申請サポート、各国政府承認手続き、大使館査証手続きの包括的支援。
+	<Card title="技能実習・育成就労（TITP）" icon="approve-check">
+		認可された監理団体および実習先企業様と連携した実践的技能実習および新制度への対応。 [技能実習の詳細 →](/ja/visas/titp/)
 	</Card>
-	<Card title="出国前研修＆生活・福祉サポート" icon="star">
-		渡日前ガイダンス、健康診断、航空便手配、入国後の安心できるフォローアップ体制。
+	<Card title="技術・人文知識・国際業務" icon="laptop">
+		大学学士号を有する高度ITエンジニアおよびビジネス人材の正規雇用紹介と家族帯同支援。 [技人国の詳細 →](/ja/visas/engineer-humanities/)
 	</Card>
-	<Card title="適正・倫理的な人材紹介" icon="laptop">
-		国際労働基準および二国間協定を遵守し、透明性と信頼性の高い雇用契約を締結。
+	<Card title="自社日本語アカデミー" icon="translate">
+		**Nihon Academy Pvt Ltd** によるJLPT・JFT-Basic合格直結の少人数徹底教育。 [講座案内 →](/ja/company/courses/)
 	</Card>
 </CardGrid>
 

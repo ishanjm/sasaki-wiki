@@ -48,6 +48,9 @@ export default defineConfig({
 					`,
 				},
 			],
+			social: [
+				{ icon: 'external', label: 'WhatsApp', href: 'https://wa.me/94705116951' },
+			],
 			sidebar: [
 				{
 					label: 'Company Profile',
@@ -113,13 +116,29 @@ export default defineConfig({
 							},
 							slug: 'visas/titp',
 						},
+						{
+							label: 'Engineer / Specialist in Humanities',
+							translations: {
+								si: 'ඉංජිනේරු සහ මානව ශාස්ත්‍ර (Gijinkoku)',
+								ja: '技術・人文知識・国際業務',
+							},
+							slug: 'visas/engineer-humanities',
+						},
+						{
+							label: 'Caregiving (Kaigo) Track',
+							translations: {
+								si: 'සත්කාරක (Kaigo) විශේෂ අංශය',
+								ja: '介護（Kaigo）特別分野',
+							},
+							slug: 'visas/caregiving-kaigo',
+						},
 					],
 				},
 				{
-					label: 'Guides & Procedures',
+					label: 'Candidate Guides',
 					translations: {
-						si: 'මාර්ගෝපදේශ සහ ක්‍රියාපටිපාටිය',
-						ja: '申請ガイド・手続き',
+						si: 'අපේක්ෂක මාර්ගෝපදේශ',
+						ja: '就労・渡航ガイド',
 					},
 					items: [
 						{
@@ -129,6 +148,30 @@ export default defineConfig({
 								ja: 'ビザ申請・渡航プロセス',
 							},
 							slug: 'guides/visa-application-process',
+						},
+						{
+							label: 'SLBFE Clearance Guide',
+							translations: {
+								si: 'විදේශ සේවා කාර්යාංශ (SLBFE) අනුමැතිය',
+								ja: 'SLBFE公認登録手続き',
+							},
+							slug: 'guides/slbfe-process',
+						},
+						{
+							label: 'Interview Prep & Etiquette',
+							translations: {
+								si: 'සම්මුඛ පරීක්ෂණ සූදානම සහ ආචාරධර්ම',
+								ja: '面接対策・ビジネスマナー',
+							},
+							slug: 'guides/interview-etiquette',
+						},
+						{
+							label: 'Life & Living Costs in Japan',
+							translations: {
+								si: 'ජපානයේ ජීවිතය සහ මාසික වියදම්',
+								ja: '日本での生活と生活コスト',
+							},
+							slug: 'guides/life-in-japan',
 						},
 					],
 				},
@@ -140,12 +183,28 @@ export default defineConfig({
 					},
 					items: [
 						{
+							label: 'Eligibility Self-Assessment',
+							translations: {
+								si: 'සුදුසුකම් ස්වයං ඇගයීම් සටහන',
+								ja: '適性診断マトリクス',
+							},
+							slug: 'reference/eligibility-matrix',
+						},
+						{
 							label: 'Required Documents Checklist',
 							translations: {
 								si: 'අවශ්‍ය ලියකියවිලි ලැයිස්තුව',
 								ja: '必要書類チェックリスト',
 							},
 							slug: 'reference/document-checklist',
+						},
+						{
+							label: 'Frequently Asked Questions (FAQ)',
+							translations: {
+								si: 'නිතර අසන ප්‍රශ්න (FAQ)',
+								ja: 'よくある質問（FAQ）',
+							},
+							slug: 'reference/faq',
 						},
 					],
 				},
