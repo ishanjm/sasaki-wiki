@@ -1,0 +1,55 @@
+---
+title: Complete Japan Visa Application Process
+description: Step-by-step roadmap from Sri Lanka to Japan for Student and SSW Work Visas.
+---
+
+import { Steps } from '@astrojs/starlight/components';
+
+Securing a visa for Japan requires meticulous preparation, institutional verification, and compliance with both Sri Lankan foreign employment laws and Japanese Immigration Services Agency regulations.
+
+Here is the exact step-by-step roadmap guided by **Sasaki Nihon Academy** and **Sasaki Foreign Employment Agency**:
+
+---
+
+## The 8-Stage Pathway
+
+<Steps>
+1. **Initial Assessment & Academy Enrollment**  
+   Visit our Narammala office or consult online. We evaluate your educational credentials (O/L and A/L results), age, career objectives, and financial sponsorship capacity to recommend the optimal visa track (Student or SSW Work Visa).
+
+2. **Intensive Japanese Language Training**  
+   Enroll in our structured Japanese classes at Sasaki Nihon Academy:
+   - *For Student Visa*: Complete 150+ classroom hours and sit for the JLPT N5 or NAT-TEST 5Q.
+   - *For SSW Visa*: Prepare for and clear the JFT-Basic (A2 level) or JLPT N4, along with the designated industry skill test.
+
+3. **Interview & Selection**  
+   - *Students*: Attend online interviews with accredited Japanese language schools and obtain an official Letter of Acceptance.
+   - *Job Seekers*: Undergo employer interviews (virtual or in-person delegations in Colombo). Selected candidates execute binding employment contracts conforming to Japanese labor standards.
+
+4. **COE (Certificate of Eligibility) Application**  
+   Our documentation team compiles your comprehensive dossier (academic transcripts, translated certificates, sponsor tax/bank records, contract documents) and submits it directly to the regional Japanese Immigration Bureau via our Japanese counterparts.
+
+5. **COE Issuance & Tuition / Fee Settlement**  
+   Immigration reviews the dossier (typically taking 6 to 12 weeks). Upon approval, the original Certificate of Eligibility (COE) is officially granted. For students, initial tuition fees are remitted directly to the school's Japanese bank account.
+
+6. **Medical Fitness & SLBFE Registration**  
+   - Complete an accredited medical fitness examination covering chest X-ray, infectious disease screenings, and general health fitness.
+   - For employment visas, complete mandatory registration with the **Sri Lanka Bureau of Foreign Employment (SLBFE)**, including government welfare insurance coverage.
+
+7. **Embassy Visa Stamping**  
+   Submit your passport, original COE, photograph, completed visa application form, and SLBFE clearance to the Embassy of Japan in Colombo (via VFS Global). The visa sticker is stamped inside your passport within 5 to 7 business days.
+
+8. **Pre-Departure Briefing & Departure**  
+   Attend Sasaki's mandatory pre-departure orientation detailing airport departure protocols, baggage regulations, Japanese immigration clearance, and residence card (*Zairyu Card*) issuance upon arrival in Tokyo/Osaka.
+</Steps>
+
+---
+
+## Typical Timeline Breakdown
+
+| Visa Category | Language Prep | Interview to COE | COE to Visa Stamp | Total Duration |
+| :--- | :--- | :--- | :--- | :--- |
+| **Student Visa** | 3 – 5 Months | 2 – 3 Months | 2 – 3 Weeks | **~ 6 to 8 Months** |
+| **SSW Work Visa** | 4 – 6 Months | 2 – 4 Months | 2 – 4 Weeks | **~ 6 to 9 Months** |
+| **TITP Internship** | 4 – 6 Months | 3 – 4 Months | 3 – 4 Weeks | **~ 7 to 10 Months** |
+

@@ -83,30 +83,71 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Guides',
+					label: 'Japan Visa Categories',
 					translations: {
-						si: 'මාර්ගෝපදේශ',
-						ja: 'ガイド',
+						si: 'ජපන් වීසා වර්ග',
+						ja: '日本の在留資格・ビザ',
 					},
 					items: [
-						// Each item here is one entry in the navigation menu.
 						{
-							label: 'Example Guide',
+							label: 'Specified Skilled Worker (SSW)',
 							translations: {
-								si: 'ආදර්ශ මාර්ගෝපදේශය',
-								ja: 'サンプルガイド',
+								si: 'විශේෂිත නිපුණතා සේවක (SSW)',
+								ja: '特定技能（SSW）',
 							},
-							slug: 'guides/example',
+							slug: 'visas/ssw',
+						},
+						{
+							label: 'Student Visa (Ryugaku)',
+							translations: {
+								si: 'ශිෂ්‍ය වීසා (Student Visa)',
+								ja: '留学ビザ',
+							},
+							slug: 'visas/student',
+						},
+						{
+							label: 'Technical Intern Training (TITP)',
+							translations: {
+								si: 'තාක්ෂණික පුහුණුලාභී වැඩසටහන (TITP)',
+								ja: '技能実習制度（TITP）',
+							},
+							slug: 'visas/titp',
 						},
 					],
 				},
 				{
-					label: 'Reference',
+					label: 'Guides & Procedures',
 					translations: {
-						si: 'විමර්ශන',
-						ja: 'リファレンス',
+						si: 'මාර්ගෝපදේශ සහ ක්‍රියාපටිපාටිය',
+						ja: '申請ガイド・手続き',
 					},
-					items: [{ autogenerate: { directory: 'reference' } }],
+					items: [
+						{
+							label: 'Visa Application Process',
+							translations: {
+								si: 'වීසා අයදුම් කිරීමේ පියවර',
+								ja: 'ビザ申請・渡航プロセス',
+							},
+							slug: 'guides/visa-application-process',
+						},
+					],
+				},
+				{
+					label: 'Requirements & Reference',
+					translations: {
+						si: 'අවශ්‍යතා සහ විමර්ශන',
+						ja: '必要書類・リファレンス',
+					},
+					items: [
+						{
+							label: 'Required Documents Checklist',
+							translations: {
+								si: 'අවශ්‍ය ලියකියවිලි ලැයිස්තුව',
+								ja: '必要書類チェックリスト',
+							},
+							slug: 'reference/document-checklist',
+						},
+					],
 				},
 			],
 		}),
