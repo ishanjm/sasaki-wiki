@@ -29,9 +29,9 @@ export default defineConfig({
 				},
 			},
 			logo: {
-				src: './public/images/logo.png',
+				src: './src/assets/logo.jpeg',
 			},
-			favicon: '/images/logo.png',
+			favicon: '/images/logo.jpeg',
 			customCss: ['./src/styles/custom.css'],
 			head: [
 				{
