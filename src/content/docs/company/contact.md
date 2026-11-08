@@ -16,8 +16,6 @@ Get in touch with the team at **Sasaki Foreign Employment Agency** for enrollmen
   [+94 70 511 69 51](tel:+94705116951)
 - **Email**:  
   [sasakiforeignemployment@gmail.com](mailto:sasakiforeignemployment@gmail.com)
-- **Official Website**:  
-  [https://www.sasakinihon.lk](https://www.sasakinihon.lk)
 
 ---
 

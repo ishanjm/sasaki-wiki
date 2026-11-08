@@ -16,8 +16,6 @@ description: ササキ海外雇用エージェンシー（Sasaki Foreign Employm
   [+94 70 511 69 51](tel:+94705116951)
 - **メールアドレス**:  
   [sasakiforeignemployment@gmail.com](mailto:sasakiforeignemployment@gmail.com)
-- **公式ウェブサイト**:  
-  [https://www.sasakinihon.lk](https://www.sasakinihon.lk)
 
 ---
 

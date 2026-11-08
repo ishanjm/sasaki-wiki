@@ -5,8 +5,6 @@ description: ササキ海外雇用エージェンシー（Sasaki Foreign Employm
 
 **ササキ海外雇用エージェンシー（Sasaki Foreign Employment Agency）**は、スリランカを拠点に、日本での高等教育および就職を目指す意欲ある人材に向けて高品質な日本語教育とビザ申請コンサルティングを提供する正規認可機関です。優秀な人材の募集・育成から日本での就業・生活支援までワンストップでサポートしています。
 
-公式ウェブサイト: [www.sasakinihon.lk](https://www.sasakinihon.lk)
-
 ---
 
 ## 理念・ミッション

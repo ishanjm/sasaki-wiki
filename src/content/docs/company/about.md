@@ -5,8 +5,6 @@ description: Overview of Sasaki Foreign Employment Agency.
 
 **Sasaki Foreign Employment Agency** is a premier licensed foreign employment agency and visa consultancy based in Sri Lanka. Dedicated to bridging ambitious talent with world-class education and employment opportunities in Japan, the agency provides authentic linguistic instruction, professional visa facilitation, and end-to-end relocation support.
 
-Official Website: [www.sasakinihon.lk](https://www.sasakinihon.lk)
-
 ---
 
 ## Vision & Mission
