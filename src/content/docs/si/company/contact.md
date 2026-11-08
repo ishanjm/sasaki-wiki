@@ -15,7 +15,7 @@ description: සසාකි විදේශ රැකියා නියෝජ�
 - **ශ්‍රී ලංකා ක්ෂණික ඇමතුම් අංකය**:  
   [+94 70 511 69 51](tel:+94705116951)
 - **විද්‍යුත් තැපෑල (Email)**:  
-  [sasaki.nihon.academy@gmail.com](mailto:sasaki.nihon.academy@gmail.com)
+  [sasakiforeignemployment@gmail.com](mailto:sasakiforeignemployment@gmail.com)
 - **නිල වෙබ් අඩවිය**:  
   [https://www.sasakinihon.lk](https://www.sasakinihon.lk)
 

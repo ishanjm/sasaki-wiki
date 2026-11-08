@@ -15,7 +15,7 @@ Get in touch with the team at **Sasaki Foreign Employment Agency** for enrollmen
 - **Sri Lanka Hotline**:  
   [+94 70 511 69 51](tel:+94705116951)
 - **Email**:  
-  [sasaki.nihon.academy@gmail.com](mailto:sasaki.nihon.academy@gmail.com)
+  [sasakiforeignemployment@gmail.com](mailto:sasakiforeignemployment@gmail.com)
 - **Official Website**:  
   [https://www.sasakinihon.lk](https://www.sasakinihon.lk)
 
