@@ -10,7 +10,7 @@ Get in touch with the team at **Sasaki Foreign Employment Agency** for enrollmen
 ## Sri Lanka Head Office
 
 - **Physical Address**:  
-  No. 27, 1st Floor, Shopping Complex,  
+  No 103, 1st Floor, Negombo Road,  
   Narammala, Sri Lanka
 - **Sri Lanka Hotline**:  
   [+94 70 511 69 51](tel:+94705116951)
