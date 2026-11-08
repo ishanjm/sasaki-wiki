@@ -1,9 +1,9 @@
 ---
 title: Japanese Language Courses & Programs
-description: Educational programs, exam preparations, and training tracks at Sasaki Nihon Academy.
+description: Educational programs, exam preparations, and training tracks at Sasaki Foreign Employment Agency.
 ---
 
-At **Sasaki Nihon Academy**, our curriculum is tailored to equip students with both practical conversational ability and recognized qualifications required for immigration, academic enrolment, and employment in Japan.
+At **Sasaki Foreign Employment Agency**, our curriculum is tailored to equip students with both practical conversational ability and recognized qualifications required for immigration, academic enrolment, and employment in Japan.
 
 ---
 

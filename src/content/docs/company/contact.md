@@ -1,9 +1,9 @@
 ---
 title: Contact & Location Information
-description: Office locations, phone hotlines, and contact details for Sasaki Nihon Academy.
+description: Office locations, phone hotlines, and contact details for Sasaki Foreign Employment Agency.
 ---
 
-Get in touch with the team at **Sasaki Nihon Academy** and **Sasaki Foreign Employment Agency** for enrollment inquiries, student visa consultations, and overseas employment guidance.
+Get in touch with the team at **Sasaki Foreign Employment Agency** for enrollment inquiries, student visa consultations, and overseas employment guidance.
 
 ---
 

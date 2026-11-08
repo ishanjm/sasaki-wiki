@@ -1,9 +1,9 @@
 ---
-title: About Sasaki Nihon Academy
-description: Overview of Sasaki Nihon Academy (Pvt) Ltd and Sasaki Foreign Employment Agency.
+title: About Sasaki Foreign Employment Agency
+description: Overview of Sasaki Foreign Employment Agency.
 ---
 
-**Sasaki Nihon Academy (Pvt) Ltd** is a premier Japanese language institution and visa consultancy based in Sri Lanka, partnered with **Sasaki Foreign Employment Agency**. Dedicated to bridging ambitious talent with world-class education and employment opportunities in Japan, the academy provides authentic linguistic instruction, professional visa facilitation, and end-to-end relocation support.
+**Sasaki Foreign Employment Agency** is a premier licensed foreign employment agency and visa consultancy based in Sri Lanka. Dedicated to bridging ambitious talent with world-class education and employment opportunities in Japan, the agency provides authentic linguistic instruction, professional visa facilitation, and end-to-end relocation support.
 
 Official Website: [www.sasakinihon.lk](https://www.sasakinihon.lk)
 
@@ -31,7 +31,7 @@ To provide reliable guidance, professional visa support, and quality consultancy
 ## Leadership
 
 ### Director's Message
-> *"Our mission is to guide students toward a successful future in Japan by nurturing educational, cultural, and professional excellence while preserving their values, confidence, and individuality. At Sasaki Nihon Academy, we do more than teach a language; we create sustainable opportunities for a brighter future."*  
+> *"Our mission is to guide students toward a successful future in Japan by nurturing educational, cultural, and professional excellence while preserving their values, confidence, and individuality. At Sasaki Foreign Employment Agency, we do more than teach a language; we create sustainable opportunities for a brighter future."*  
 > — **Pradeep Roshan**, Director
 
 ### Company Secretary's Message
@@ -52,7 +52,7 @@ To provide reliable guidance, professional visa support, and quality consultancy
 ## Accreditation & Legal Authority
 
 - **Sri Lanka Bureau of Foreign Employment (SLBFE)**: Fully licensed overseas recruitment and placement agency operating under the SLBFE Act No. 21 of 1985.
-- **Registrar of Companies**: Sasaki Nihon Academy (Pvt) Ltd is an officially incorporated private limited company in Sri Lanka.
+- **Registrar of Companies**: Sasaki Foreign Employment Agency is an officially registered entity in Sri Lanka.
 - **Bilateral Accord Compliance**: Recruitment agreements strictly conform to the Memorandums of Cooperation (MOC) executed between the Government of Sri Lanka and the Government of Japan.
 - **Immigration Authority Disclaimer**: Final decisions regarding Certificate of Eligibility (COE) clearance and entry visa issuance rest solely under the sovereign authority of the Immigration Services Agency of Japan and the Embassy of Japan in Colombo.
 

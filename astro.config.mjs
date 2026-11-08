@@ -55,7 +55,7 @@ export default defineConfig({
 							if (document.querySelector('.sasaki-floating-whatsapp')) return;
 							const a = document.createElement('a');
 							a.className = 'sasaki-floating-whatsapp';
-							a.href = 'https://wa.me/94705116951?text=' + encodeURIComponent('Hello Sasaki Nihon Academy, I would like to inquire about Japan visa programs.');
+							a.href = 'https://wa.me/94705116951?text=' + encodeURIComponent('Hello Sasaki Foreign Employment Agency, I would like to inquire about Japan visa programs.');
 							a.target = '_blank';
 							a.rel = 'noopener noreferrer';
 							a.setAttribute('aria-label', 'Chat on WhatsApp');
@@ -77,10 +77,10 @@ export default defineConfig({
 					},
 					items: [
 						{
-							label: 'About Sasaki Nihon',
+							label: 'About Sasaki Foreign Employment Agency',
 							translations: {
-								si: 'සසාකි නිහොන් පිළිබඳව',
-								ja: 'ササキ日本アカデミーについて',
+								si: 'සසාකි විදේශ රැකියා නියෝජිතායතනය පිළිබඳව',
+								ja: 'ササキ海外雇用エージェンシーについて',
 							},
 							slug: 'company/about',
 						},

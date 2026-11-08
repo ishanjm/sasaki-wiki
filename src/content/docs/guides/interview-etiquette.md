@@ -5,7 +5,7 @@ description: Master the Japanese job interview, self-introduction (Jikoshoukai),
 
 In Japanese corporate culture, an interview is not merely a test of technical qualifications—it is an evaluation of your sincerity (*Seijitsu*), manners (*Reigi*), punctuality, and cultural adaptability (*Tekiousei*).
 
-Here is the essential guide used by **Sasaki Nihon Academy** candidates to achieve high interview success rates with Japanese employers.
+Here is the essential guide used by **Sasaki Foreign Employment Agency** candidates to achieve high interview success rates with Japanese employers.
 
 ---
 
