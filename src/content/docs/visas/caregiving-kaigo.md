@@ -5,7 +5,7 @@ description: Complete guide to the Caregiving SSW and TITP pathways, exam requir
 
 Due to Japan's super-aging society, **Elderly Caregiving (Kaigo - 介護)** has the highest placement quota, exceptional job stability, and comprehensive government support for Sri Lankan candidates under the Specified Skilled Worker (SSW) and Technical Intern Training (TITP) programs.
 
-**Sasaki Nihon Academy** conducts targeted nursing care Japanese language preparation and practical caregiving training aligned with Japanese Ministry of Health, Labour and Welfare standards.
+**Sasaki Foreign Employment Agency** conducts targeted nursing care Japanese language preparation and practical caregiving training aligned with Japanese Ministry of Health, Labour and Welfare standards.
 
 ---
 

@@ -3,13 +3,13 @@ title: Frequently Asked Questions (FAQ)
 description: Official answers to candidate questions regarding age limits, costs, exams, visas, and living in Japan.
 ---
 
-Here are answers to the questions most frequently asked by candidates, students, and parents at **Sasaki Nihon Academy** and **Sasaki Foreign Employment Agency**:
+Here are answers to the questions most frequently asked by candidates, students, and parents at **Sasaki Foreign Employment Agency**:
 
 ---
 
 ## General & Academic Questions
 
-### Q1: I don't know any Japanese. Can I still join your academy?
+### Q1: I don't know any Japanese. Can I still join your training program?
 **Yes.** All our courses start from absolute zero (Hiragana and Katakana alphabets). Our structured curriculum takes you step-by-step from beginner level to examination readiness.
 
 ### Q2: What is the difference between JLPT and JFT-Basic? Which should I take?

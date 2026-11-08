@@ -29,8 +29,8 @@ Use this decision matrix to evaluate which Japanese visa category matches your c
 👉 **Choose the Student Visa Track**: Learn Japanese full-time, earn an internationally recognized diploma/degree, work part-time to sustain yourself, and step into senior employment upon graduation.
 
 ### 2. Are you aged 18–40, wanting to earn an immediate income in Japan?
-👉 **Choose the Specified Skilled Worker (SSW) Track**: Fast-track your Japanese through JFT-Basic at Sasaki Nihon Academy, clear your sector test (Caregiving, Food, Agriculture, Construction), and begin working on full Japanese salary standards.
+👉 **Choose the Specified Skilled Worker (SSW) Track**: Fast-track your Japanese through JFT-Basic at Sasaki Foreign Employment Agency, clear your sector test (Caregiving, Food, Agriculture, Construction), and begin working on full Japanese salary standards.
 
 ### 3. Do you hold an IT, Engineering, or Business Bachelor's Degree?
-👉 **Choose the Engineer / Specialist in Humanities Track**: Study Japanese to N3/N2 level at our academy, participate in direct corporate interviews with Japanese firms, and relocate as a permanent staff member with family visa privileges.
+👉 **Choose the Engineer / Specialist in Humanities Track**: Study Japanese to N3/N2 level at Sasaki Foreign Employment Agency, participate in direct corporate interviews with Japanese firms, and relocate as a permanent staff member with family visa privileges.
 

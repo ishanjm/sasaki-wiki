@@ -7,17 +7,28 @@
 	--sl-color-accent-high: #feb2b2;
 
 	/* Compact, Clean Typography Scaling */
-	--sl-text-2xs: 0.7rem;     /* 11px */
-	--sl-text-xs: 0.75rem;     /* 12px */
-	--sl-text-sm: 0.8125rem;   /* 13px */
-	--sl-text-base: 0.9375rem; /* 15px */
-	--sl-text-lg: 1.05rem;     /* 17px */
-	--sl-text-xl: 1.15rem;     /* 18.5px */
-	--sl-text-2xl: 1.3rem;     /* 21px */
-	--sl-text-3xl: 1.5rem;     /* 24px */
-	--sl-text-4xl: 1.75rem;    /* 28px */
-	--sl-text-5xl: 2.1rem;     /* 33.5px */
-	--sl-text-6xl: 2.75rem;    /* 44px */
+	--sl-text-2xs: 0.7rem;
+	/* 11px */
+	--sl-text-xs: 0.75rem;
+	/* 12px */
+	--sl-text-sm: 0.8125rem;
+	/* 13px */
+	--sl-text-base: 0.9375rem;
+	/* 15px */
+	--sl-text-lg: 1.05rem;
+	/* 17px */
+	--sl-text-xl: 1.15rem;
+	/* 18.5px */
+	--sl-text-2xl: 1.3rem;
+	/* 21px */
+	--sl-text-3xl: 1.5rem;
+	/* 24px */
+	--sl-text-4xl: 1.75rem;
+	/* 28px */
+	--sl-text-5xl: 2.1rem;
+	/* 33.5px */
+	--sl-text-6xl: 2.75rem;
+	/* 44px */
 
 	--sl-text-body: var(--sl-text-base);
 	--sl-text-body-sm: var(--sl-text-xs);
@@ -84,7 +95,8 @@ table,
 	font-size: 0.85rem;
 }
 
-th, td {
+th,
+td {
 	padding: 0.55rem 0.75rem;
 }
 
@@ -101,7 +113,8 @@ th {
 :lang(si) .sl-markdown-content,
 :lang(si) .sl-markdown-content p,
 :lang(si) .sl-markdown-content li {
-	font-size: 0.9rem; /* Sinhala glyphs render ~15% larger in Windows, so we normalize scale */
+	font-size: 0.9rem;
+	/* Sinhala glyphs render ~15% larger in Windows, so we normalize scale */
 	line-height: 1.7;
 }
 
@@ -172,6 +185,7 @@ th {
 	.sasaki-floating-whatsapp span {
 		display: none;
 	}
+
 	.sasaki-floating-whatsapp {
 		padding: 12px;
 		border-radius: 50%;

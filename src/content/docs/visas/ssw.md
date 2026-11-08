@@ -5,7 +5,7 @@ description: Complete guide to Japan's Specified Skilled Worker visa, eligibilit
 
 The **Specified Skilled Worker (SSW / 特定技能 - Tokutei Ginou)** status of residence was established by the Japanese Government to address severe labor shortages by welcoming foreign nationals with certified workplace skills and Japanese language capabilities.
 
-**Sasaki Nihon Academy** and **Sasaki Foreign Employment Agency** provide targeted Japanese language preparation, skill evaluation training, registered employer interviews, and visa processing for Sri Lankan candidates seeking SSW employment in Japan.
+**Sasaki Foreign Employment Agency** provides targeted Japanese language preparation, skill evaluation training, registered employer interviews, and visa processing for Sri Lankan candidates seeking SSW employment in Japan.
 
 :::tip[High Demand & Fast-Track]
 Specified Skilled Worker (SSW) is currently the fastest, highly remunerated legal employment pathway to Japan for Sri Lankan job seekers with starting salaries equivalent to 400,000–600,000 LKR/month.

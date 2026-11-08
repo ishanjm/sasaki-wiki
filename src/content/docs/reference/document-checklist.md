@@ -27,7 +27,7 @@ Proper documentation is the single most critical factor in securing Certificate 
 | **G.C.E. O/L Certificate** | Certified copy issued by Department of Examinations, Battaramulla | Required | Required |
 | **G.C.E. A/L Certificate** | Certified copy showing pass grades in at least 3 subjects | Required | If applicable |
 | **Japanese Language Certificate** | Official original score sheet and certificate for **JLPT** (N5/N4), **NAT-TEST**, or **JFT-Basic** | Required | Required |
-| **Study Hours Certificate** | Official letter certifying 150+ hours of classroom instruction issued by Sasaki Nihon Academy | Required | Optional |
+| **Study Hours Certificate** | Official letter certifying 150+ hours of classroom instruction issued by Sasaki Foreign Employment Agency | Required | Optional |
 | **Vocational / Degree Certificates** | University degree, NVQ certificate, or diploma transcript (with English translation) | If applicable | If applicable |
 | **Industry Skill Test Certificate** | Official pass certificate for the Prometric SSW Skill Evaluation Exam in the chosen sector | N/A | Required |
 

@@ -33,7 +33,7 @@ Practice and memorize this structured introduction until it flows naturally:
 > **Watashi wa [Full Name] to moushimasu. Suriranka kara mairimashita.** (My name is [Name]. I come from Sri Lanka.)  
 > **Nenrei wa [Age] sai desu.** (I am [Age] years old.)  
 > **Suriranka dewa, [Highest Education or University] de benkyou shimashita.** (In Sri Lanka, I studied at [School/Institute].)  
-> **Nihongo wa Sasaki Nihon Academy de mainichi isshoukenmei benkyou shite orimasu.** (I am studying Japanese diligently every day at Sasaki Nihon Academy.)  
+> **Nihongo wa Sasaki Foreign Employment Agency de mainichi isshoukenmei benkyou shite orimasu.** (I am studying Japanese diligently every day at Sasaki Foreign Employment Agency.)  
 > **Nihon de [Nursing / Food / Construction / Engineering] no shigoto wo seikou sasetai desu.** (I want to succeed working in [Field] in Japan.)  
 > **Donna shigoto demo isshoukenmei ganbarimasu.** (I will do my very best in every assigned duty.)  
 > **Douzo yoroshiku onegai itashimasu.** (Thank you very much for this opportunity.)  

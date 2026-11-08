@@ -27,7 +27,7 @@ description: ජපන් ආයතන සමඟ පවත්වන සම්ම
 > **Watashi wa [ඔබේ නම] to moushimasu. Suriranka kara mairimashita.** (මගේ නම [නම]. මා පැමිණියේ ශ්‍රී ලංකාවේ සිටයි.)  
 > **Nenrei wa [වයස] sai desu.** (මගේ වයස අවුරුදු [වයස] කි.)  
 > **Suriranka dewa, [පාසල හෝ උසස් අධ්‍යාපන ආයතනය] de benkyou shimashita.** (ශ්‍රී ලංකාවේදී මා [පාසල/ආයතනය] අධ්‍යාපනය ලැබුවෙමි.)  
-> **Nihongo wa Sasaki Nihon Academy de mainichi isshoukenmei benkyou shite orimasu.** (මම සසාකි නිහොන් ඇකඩමියේ දිනපතා දැඩි උනන්දුවෙන් ජපන් භාෂාව හදාරමි.)  
+> **Nihongo wa Sasaki Foreign Employment Agency de mainichi isshoukenmei benkyou shite orimasu.** (මම සසාකි විදේශ රැකියා නියෝජිතායතනයේ දිනපතා දැඩි උනන්දුවෙන් ජපන් භාෂාව හදාරමි.)  
 > **Nihon de [ක්ෂේත්‍රය] no shigoto wo seikou sasetai desu.** (ජපානයේදී [ක්ෂේත්‍රයේ] රැකියාව සාර්ථකව කිරීමට මම කැමැත්තෙමි.)  
 > **Donna shigoto demo isshoukenmei ganbarimasu.** (ඕනෑම කාර්යයක් මම උපරිම උත්සාහයෙන් යුතුව ඉටු කරමි.)  
 > **Douzo yoroshiku onegai itashimasu.** (කරුණාවෙන් මාව පිළිගන්නා ලෙස ඉල්ලමි.)  

@@ -52,7 +52,7 @@ To qualify for a Student Visa and obtain the Certificate of Eligibility (COE) fr
 
 1. **Formal Education**: Minimum **12 years of completed school education** (G.C.E. Advanced Level / A-Levels completed with passed subjects).
 2. **Japanese Language Foundation**:
-   - Proof of at least **150 hours of verified Japanese language study** at an accredited academy such as Sasaki Nihon Academy, **OR**
+   - Proof of at least **150 hours of verified Japanese language study** at an accredited institution such as Sasaki Foreign Employment Agency, **OR**
    - Official passing certificate for **JLPT N5** or **NAT-TEST 5Q / JFT-Basic**.
 3. **Financial Sponsorship**:
    - A recognized financial sponsor (typically parents, siblings, or direct family members).

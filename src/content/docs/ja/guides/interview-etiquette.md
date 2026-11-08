@@ -5,7 +5,7 @@ description: 日本の採用面接マナー、自己紹介（Jikoshoukai）実�
 
 日本企業による採用面接では、専門知識以上に「誠実さ」「礼儀正しさ」「時間厳守」「協調性」が高く評価されます。
 
-**ササキ日本アカデミー**が実施する面接対策トレーニングのエッセンス：
+**ササキ海外雇用エージェンシー（Sasaki Foreign Employment Agency）**が実施する面接対策トレーニングのエッセンス：
 
 ---
 
@@ -30,7 +30,7 @@ description: 日本の採用面接マナー、自己紹介（Jikoshoukai）実�
 > **私は［氏名］と申します。スリランカから参りました。**（Watashi wa [Name] to moushimasu. Suriranka kara mairimashita.）  
 > **年齢は［年齢］歳です。**（Nenrei wa [Age] sai desu.）  
 > **スリランカでは、［最終学歴・専攻］を学びました。**（Suriranka dewa, [Education] wo benkyou shimashita.）  
-> **日本語はササキ日本アカデミーで毎日一生懸命勉強しております。**（Nihongo wa Sasaki Nihon Academy de mainichi isshoukenmei benkyou shite orimasu.）  
+> **日本語はササキ海外雇用エージェンシーで毎日一生懸命勉強しております。**（Nihongo wa Sasaki Foreign Employment Agency de mainichi isshoukenmei benkyou shite orimasu.）  
 > **日本で［介護／外食／製造／IT］の仕事で成果を上げ、貢献したいと考えております。**（Nihon de [Field] no shigoto wo seikou sasetai desu.）  
 > **どんな仕事でも前向きに一生懸命頑張ります。**（Donna shigoto demo isshoukenmei ganbarimasu.）  
 > **どうぞよろしくお願いいたします。**（Douzo yoroshiku onegai itashimasu.）  
