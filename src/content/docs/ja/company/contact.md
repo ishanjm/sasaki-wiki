@@ -13,7 +13,7 @@ description: ササキ海外雇用エージェンシー（Sasaki Foreign Employm
   No 103, 1st Floor, Negombo Road,  
   Narammala, Sri Lanka（スリランカ・ナランマラ）
 - **スリランカ窓口電話番号**:  
-  [+94 70 511 69 51](tel:+94705116951)
+  [+94 70 511 69 51](tel:+94705116951) / [+94 37 20 48 480](tel:+94372048480)
 - **メールアドレス**:  
   [sasakiforeignemployment@gmail.com](mailto:sasakiforeignemployment@gmail.com)
 
